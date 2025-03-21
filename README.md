@@ -1,3 +1,4 @@
 # sumitdemo
-this a demo project
-Author- sumit Mishra
+This is my first git Repository.
+<br>
+Author - sumit Mishra
